@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: Nah
 - 📫 How to reach me: Over my website redlock.netlify.app
 - 😄 Pronouns: Are against my religion
-- ⚡ Fun fact: Very strong on christianity and huge american patriot
+- ⚡ Fun fact: Very strong on christianity and strong american patriot
 
 <!---
 NitRam222/NitRam222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
