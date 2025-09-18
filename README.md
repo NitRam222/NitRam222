@@ -1,6 +1,6 @@
 - My name's Martin
 - I am an Apprentice Application Developer
-- I actively program using HTML, CSS, JS, React
+- I currently program using HTML, CSS, JS, React
 
 
 ## Tech Stack
