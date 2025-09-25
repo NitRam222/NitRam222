@@ -2,7 +2,7 @@
 - I am an Apprentice Application Developer
 - I currently program using HTML, CSS, JS, React
 
-
+- Contact me at martin@martinevers.com
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
